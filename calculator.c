@@ -24,8 +24,6 @@ switch(op){
 default:
    printf("请输入加减乘除中的运算符");
 break;
-
-
 }
 return 0;
 }
